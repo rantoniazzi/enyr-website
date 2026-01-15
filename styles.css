@@ -634,6 +634,14 @@ section {
     padding: var(--spacing-md);
 }
 
+.partner-logo {
+    max-width: 100%;
+    max-height: 100%;
+    width: auto;
+    height: auto;
+    object-fit: contain;
+}
+
 .partner-name {
     font-family: var(--font-display);
     font-size: 1.5rem;
