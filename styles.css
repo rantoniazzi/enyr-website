@@ -624,14 +624,12 @@ section {
 
 .partner-logo-wrapper {
     width: 100%;
-    height: 180px;
+    height: 200px;
     display: flex;
     align-items: center;
     justify-content: center;
     margin-bottom: var(--spacing-md);
-    background: linear-gradient(135deg, var(--light) 0%, rgba(0, 168, 150, 0.05) 100%);
-    border-radius: var(--radius-md);
-    padding: var(--spacing-lg);
+    padding: var(--spacing-sm);
 }
 
 .partner-logo {
